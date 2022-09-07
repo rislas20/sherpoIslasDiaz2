@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+/* NAV */
+.fontFamily{
+    font-family: sans-serif;
+}
+
+.bg-aquamarine{
+    background-color: #08fad4;
+}
+
+#botonera img{
+    width: 100px;
+    margin-left: 20px;
+}
+
+.marginButtons{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navText{
+    color: black;
+    font-weight: bold;
+}
+
+/*Footer*/
+.textFooter{
+    text-align: center;
+    background-color: #08fad4;
+    font-size: 0.8rem;
+}
+
+/*Index*/
+.h1Header{
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.marginMain{
+    margin-bottom: 80px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+/*Nosotros*/
+.textItalic{
+    font-style: italic;
+}
+
+.imgSize{
+    width: 60%;
+}
+
+.imgCenter{
+    margin-left: 80px;
+}
+
+.h5Adjust{
+    margin-top: 20px;
+}
+
+/*Inteligencia comercial*/
+.headerIntcomercial{
+    margin-left: 40px;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+
+.h2Align{
+    margin-left: 20px;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.asideAlign{
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*Clientes*/
+.headerClientes{
+    margin-left: 40px;
+    margin-top: 45px;
+}
+
+.carruselMargin{
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.textBold{
+    font-weight: bold;
+}
+
+/*Recursos*/
+.headerRecursos{
+    margin-left: 40px;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+.mainAlign{
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
