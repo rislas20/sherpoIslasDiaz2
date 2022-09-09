@@ -8,6 +8,9 @@
     <!-- Boootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="./css/animate.css">
+
     <!-- Mi CSS -->
     <link rel="shortcut icon" href="Img/Captura de Pantalla 2022-07-05 a la(s) 11.31.09.png" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
@@ -63,7 +66,7 @@
     <!-- Finaliza header -->
 
     <!-- Inicia main -->
-    <main class="headerIntcomercial">
+    <main class="headerIntcomercial wow animate__backInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
       <h1><b>Inteligencia comercial</b></h1>
       <h5>Tu empresa debe contar en todo momento con un aliado o un departamento interno de inteligencia comercial que prospecte a tus clientes ideales de forma diaria.</h5>
     </main>
@@ -71,10 +74,10 @@
 
     <!-- Inicia aside -->
     <aside class="asideAlign">
-      <h2 class="h2Align"><b>¿Por qué Cold Email Marketing?</b></h2>
+      <h2 class="h2Align wow animate__backInLeft" data-wow-duration="1.5s" data-wow-delay="0s"><b>¿Por qué Cold Email Marketing?</b></h2>
       <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
-          <div class="card">
+          <div class="card wow animate__backInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
             <div class="card-body">
               <h5 class="card-title textCenter"><b>1</b></h5>
               <p class="card-text">Es considerada la mejor estrategia comercial para emprendedores, pequeños y medianos empresarios de acuerdo con UCLA y Harvard Business School.</p>
@@ -82,7 +85,7 @@
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card wow animate__backInRight" data-wow-duration="1.5s" data-wow-delay="0s">
             <div class="card-body">
               <h5 class="card-title textCenter"><b>2</b></h5>
               <p class="card-text">Es la forma más eficiente de aperturar nuevos mercados y generar prospectos calificados de forma diaria.</p>
@@ -90,7 +93,7 @@
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card wow animate__backInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
             <div class="card-body">
               <h5 class="card-title textCenter"><b>3</b></h5>
               <p class="card-text">Cuesta al rededor del 80% menos que otras estrategias de prospección y tiene el potencial de generar ingresos en un corto plazo.</p>
@@ -98,7 +101,7 @@
           </div>
         </div>
         <div class="col">
-          <div class="card">
+          <div class="card wow animate__backInRight" data-wow-duration="1.5s" data-wow-delay="0s">
             <div class="card-body">
               <h5 class="card-title textCenter"><b>4</b></h5>
               <p class="card-text">Toda persona laboral revisa su correo por lo menos una vez por día y es la forma menos invasiva de prospectar.</p>
@@ -111,16 +114,20 @@
 
     <!-- Inicia Footer -->
     <footer>
-        <div class="card">
-            <div class="card-body textFooter">
-            <p class="card-text">2022 Copyright Axies Capital Solutions SA de CV - Todos los derechos reservados.</p>
-            <p class="card-text"><u>Términos y Condiciones del Servicio</u></p>
-            <p class="card-text"><u>Aviso de Privacidad</u></p>
-            </div>
+      <div class="card">
+        <div class="card-body textFooter">
+          <p class="card-text">2022 Copyright Axies Capital Solutions SA de CV - Todos los derechos reservados.</p>
+          <p class="card-text cursorPointer"><u>Términos y Condiciones del Servicio</u></p>
+          <p class="card-text cursorPointer"><u>Aviso de Privacidad</u></p>
         </div>
+      </div>
     </footer>
     <!-- Finaliza Footer -->
-    
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
-    </body>
+    <script src="js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+  </body>
 </html>

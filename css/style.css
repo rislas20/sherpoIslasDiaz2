@@ -31,6 +31,10 @@
     font-size: 0.8rem;
 }
 
+.cursorPointer{
+    cursor: pointer;
+}
+
 /*Index*/
 .h1Header{
     color: black;
@@ -112,4 +116,9 @@
     margin-bottom: 40px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.scaleVideo:hover{
+    transform: scale(0.95);
+    transition: transform 1s;
 }
