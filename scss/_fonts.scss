@@ -1,0 +1,16 @@
+// importación de fuente PT Sans //
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+// etiquetas comunes de fuentes //
+$mainFont: 'PT Sans', sans-serif;
+$textColor: black;
+$bold: bold;
+$italic: italic;
+$textsm: 0.8rem;
+
+*{
+    font-family: $mainFont;
+}
+
+
+

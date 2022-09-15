@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+.cursorPointer {
+  cursor: pointer;
+}
+
+* {
+  font-family: "PT Sans", sans-serif;
+}
+
+.bg-aquamarine {
+  background-color: #08fad4;
+}
+
+#botonera img {
+  width: 100px;
+  margin-left: 20px;
+}
+
+.marginButtons {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.navText {
+  color: black;
+  font-weight: bold;
+}
+
+.h1Header {
+  color: black;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.marginMain {
+  margin-bottom: 80px;
+  margin-top: 80px;
+  margin-left: 30px;
+}
+
+.textItalic {
+  font-style: italic;
+}
+
+.imgSize {
+  width: 60%;
+}
+
+.imgCenter {
+  margin-left: 80px;
+}
+
+.h5Adjust {
+  margin-top: 20px;
+}
+
+.headerIntcomercial {
+  margin-left: 40px;
+  margin-top: 45px;
+  margin-right: 20px;
+}
+
+.h2Align {
+  margin-left: 20px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.asideAlign {
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.headerClientes {
+  margin-left: 40px;
+  margin-top: 45px;
+}
+
+.carruselMargin {
+  margin-top: 100px;
+  margin-bottom: 120px;
+}
+
+.textBold {
+  font-weight: bold;
+}
+
+.headerRecursos {
+  margin-left: 40px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
+.mainAlign {
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.scaleVideo:hover {
+  transform: scale(0.95);
+  transition: transform 1s;
+}
+
+.textFooter {
+  text-align: center;
+  background-color: #08fad4;
+  font-size: 0.8rem;
+}/*# sourceMappingURL=main.css.map */
