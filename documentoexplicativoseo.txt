@@ -1,0 +1,24 @@
+Index
+    Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Ejecuta la mejor estrategia comercial de acuerdo con UCLA y Harvard Business School."
+    Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "estrategias comerciales, B2B, prospección, inteligencia comercial, cold email marketing, marketing de correos"
+    Encabezado: para el encabezado del h1 utilicé el texto “Estrategias comerciales B2B.”
+
+Nosotros
+    Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica lo más importante de esta página: “Somos consultores certificados por UCLA Business School y con una amplia experiencia en estrategias comerciales, ventas, prospección, automatización de canales comerciales y emprendimiento en modelos B2B."
+    Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "estrategias comerciales, B2B, prospección, inteligencia comercial, cold email marketing, marketing de correos"
+    Encabezado: para el encabezado del h1 utilicé el texto “¿Por qué Sherpo?”
+
+Int. comercial
+    Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica lo más importante de esta página: “Genera hasta 50 prospectos diarios con nuestra metodología de prospección B2B."
+    Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "estrategias comerciales, B2B, prospección, inteligencia comercial, cold email marketing, marketing de correos"
+    Encabezado: para el encabezado del h1 utilicé el texto “Inteligencia comercial”
+
+Clientes
+    Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica lo más importante de esta página: “Estos son algunos de nuestros clientes B2B que han logrado hasta 50 millones de USD en cotizaciones nuevas con nuestra metodología."
+    Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "estrategias comerciales, B2B, prospección, inteligencia comercial, cold email marketing, marketing de correos"
+    Encabezado: para el encabezado del h1 utilicé el texto “Clientes”
+
+Recursos
+    Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica lo más importante de esta página: “Aprende a un poco más a profundidad de las ventajas del Cold Email Marketing y cómo generar copies de alto impacto."
+    Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "estrategias comerciales, B2B, prospección, inteligencia comercial, cold email marketing, marketing de correos"
+    Encabezado: para el encabezado del h1 utilicé el texto “Cursos Cold Email MKT”

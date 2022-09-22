@@ -1,6 +1,6 @@
 // Index //
 .h1Header{
-    color: $textColor;
+    color: map-get($map:$paleta, $key:'dos');
     font-weight: $bold;
     margin-top: 20px;
     margin-left: 40px;
@@ -31,12 +31,6 @@
 }
 
 // Inteligencia comercial //
-.headerIntcomercial{
-    margin-left: 40px;
-    margin-top: 45px;
-    margin-right: 20px;
-}
-
 .h2Align{
     margin-left: 20px;
     margin-top: 45px;
@@ -48,17 +42,10 @@
 }
 
 .asideAlign{
-    margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    @include textos(40px,20px)
 }
 
 // Clientes //
-.headerClientes{
-    margin-left: 40px;
-    margin-top: 45px;
-}
-
 .carruselMargin{
     margin-top: 100px;
     margin-bottom: 120px;
@@ -69,16 +56,8 @@
 }
 
 // Recursos //
-.headerRecursos{
-    margin-left: 40px;
-    margin-top: 45px;
-    margin-bottom: 20px;
-}
-
 .mainAlign{
-    margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    @include textos(40px,20px)
 }
 
 .scaleVideo:hover{

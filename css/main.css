@@ -3,6 +3,19 @@
   cursor: pointer;
 }
 
+.headerAlign, .headerAlign_Rec, .headerAlign_Int {
+  margin-left: 40px;
+  margin-top: 45px;
+}
+
+.headerAlign_Int {
+  margin-right: 20px;
+}
+
+.headerAlign_Rec {
+  margin-bottom: 20px;
+}
+
 * {
   font-family: "PT Sans", sans-serif;
 }
@@ -56,12 +69,6 @@
   margin-top: 20px;
 }
 
-.headerIntcomercial {
-  margin-left: 40px;
-  margin-top: 45px;
-  margin-right: 20px;
-}
-
 .h2Align {
   margin-left: 20px;
   margin-top: 45px;
@@ -74,13 +81,8 @@
 
 .asideAlign {
   margin-bottom: 40px;
-  margin-left: 20px;
   margin-right: 20px;
-}
-
-.headerClientes {
-  margin-left: 40px;
-  margin-top: 45px;
+  margin-left: 20px;
 }
 
 .carruselMargin {
@@ -92,16 +94,10 @@
   font-weight: bold;
 }
 
-.headerRecursos {
-  margin-left: 40px;
-  margin-top: 45px;
-  margin-bottom: 20px;
-}
-
 .mainAlign {
   margin-bottom: 40px;
-  margin-left: 20px;
   margin-right: 20px;
+  margin-left: 20px;
 }
 
 .scaleVideo:hover {

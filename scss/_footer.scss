@@ -1,6 +1,6 @@
 // Footer //
 .textFooter{
     text-align: center;
-    background-color: $bgColor;
+    background-color: map-get($map:$paleta, $key:'uno');
     font-size: $textsm;
 }

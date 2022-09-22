@@ -1,0 +1,5 @@
+@mixin textos ($marginbottom, $marginright) {
+    margin-bottom: $marginbottom;
+    margin-right: $marginright;
+    margin-left: 20px;
+}

@@ -1,8 +1,23 @@
 // etiquetas comunes //
 
-$bgColor: #08fad4;
 $pointer: pointer;
 
 .cursorPointer{
     cursor: $pointer;
+}
+
+// Header Int. Comercial, Clientes y Recursos //
+.headerAlign{
+    margin-left: 40px;
+    margin-top: 45px;
+}
+
+.headerAlign_Int{
+    @extend .headerAlign;
+    margin-right: 20px;
+}
+
+.headerAlign_Rec{
+    @extend .headerAlign;
+    margin-bottom: 20px;
 }
