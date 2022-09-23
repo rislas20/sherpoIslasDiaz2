@@ -3,6 +3,12 @@
   cursor: pointer;
 }
 
+.bgIndex {
+  background-image: url(../Img/Background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .headerAlign, .headerAlign_Rec, .headerAlign_Int {
   margin-left: 40px;
   margin-top: 45px;
